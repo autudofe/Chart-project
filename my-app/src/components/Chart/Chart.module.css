@@ -1,0 +1,22 @@
+.chartBlock{
+    width: 100%;
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chartContainer{
+    width: 95%;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    padding: 1vw;
+    cursor: pointer;
+    background-color: #d1dcff;
+}
+.btn:hover{
+    background-color: #adc2ff;
+}
